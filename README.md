@@ -4,7 +4,7 @@ An interactive **Power BI dashboard** analyzing **10,000 EV charging sessions** 
 
 ## 📊 Dashboard Preview
 
-![EV Charging Station Analytics Dashboard](screenshots/EV_Charging_Dashboard.png)
+![EV Charging Station Analytics Dashboard](EV-Charging-Station-Analytics%20dashboard.png)
 
 ## 🎯 Project Objective
 
